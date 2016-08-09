@@ -27,7 +27,7 @@ Kang LTE merupakan tema konversi dari template adminLTE html menjadi tema wordpr
 - Push to the branch: git push origin my-new-feature
 - Submit a pull request :D
 
-[Lihat Kontributor](https://github.com/dyazincahya/theme-wp-material-awesome/graphs/contributors)
+[Lihat Kontributor](https://github.com/dyazincahya/theme-wp-kangLTE/graphs/contributors)
 
 ## Kredit
 - AdminLTE
