@@ -9,7 +9,7 @@ Kang LTE merupakan tema konversi dari template adminLTE html menjadi tema wordpr
 - Lalu cari file tema yang telah di unduh tadi, klik upload.
 
 ## Logo
-[Lihat Logo](theme-wp-kangLTE/screenshot.jpg)
+![Image of Yaktocat](theme-wp-kangLTE/screenshot.jpg)
 
 ## Fitur
 [Lihat Fitur](https://github.com/dyazincahya/theme-wp-kangLTE/blob/master/FITUR.md)
